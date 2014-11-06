@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds />
+  <images>
+    <image name="projecto ya listop">
+      <file name="projecto ya listop.png" size="484754" />
+    </image>
+    <image name="bullets_PNG1456">
+      <file name="bullets_PNG1456.png" size="324916" />
+    </image>
+    <image name="__IIgKIYEeK99RIxPR_KdA_-Spaceship">
+      <file name="__IIgKIYEeK99RIxPR_KdA_-Spaceship.png" size="316458" />
+    </image>
+    <image name="night-315204_640">
+      <file name="night-315204_640.png" size="530660" />
+    </image>
+    <image name="Keyboard">
+      <file name="Keyboard.png" size="127857" />
+    </image>
+    <image name="YouWin">
+      <file name="YouWin.png" size="4731" />
+    </image>
+    <image name="download (1)-1">
+      <file name="download (1)-1.png" size="48984" />
+    </image>
+    <image name="alien_spaceship_icon_black_white_line_art-999px">
+      <file name="alien_spaceship_icon_black_white_line_art-999px.png" size="132102" />
+    </image>
+    <image name="pause">
+      <file name="pause.png" size="24178" />
+    </image>
+    <image name="restartasdasdsad">
+      <file name="restartasdasdsad.png" size="21846" />
+    </image>
+    <image name="Paused-framed (1_5x)">
+      <file name="Paused-framed (1_5x).png" size="94639" />
+    </image>
+  </images>
+  <behaviors />
+</assets>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.5" PGFVersion="0.19" title="Alien Conquerors Game">
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">320</real>
+      <real id="height">568</real>
+    </size>
+    <text id="actorTags">Walls	Aliens	Projectiles</text>
+    <integer id="id935538" name="MoveDirection">1</integer>
+    <integer id="id378563" name="AlienCount">0</integer>
+    <table id="id952346" name="PurchaseTable">PurchaseTable</table>
+  </attributes>
+  <tags>template, invaders</tags>
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Left and right keys to move. Spacebar to shoot.</instructions>
+  <resolution>13</resolution>
+  <longDescription>best game every to play
+</longDescription>
+  <prototypes>
+    <actor id="id293917" />
+    <actor id="id894113" />
+    <actor id="id270645" />
+    <actor id="id420973" />
+    <actor id="id104216" />
+    <actor id="id208556" />
+    <actor id="id569187" />
+    <actor id="id784028" />
+    <actor id="id776959" />
+    <actor id="id330807" />
+    <actor id="id235292" />
+    <actor id="id785561" />
+    <actor id="id188890" />
+    <actor id="id763080" />
+    <actor id="id985445" />
+    <actor id="id445870" />
+    <actor id="id121821" />
+  </prototypes>
+  <plugins>
+    <attributes id="playhaven" />
+    <attributes id="qqgamecenter">
+      <boolean id="enabled">false</boolean>
+    </attributes>
+  </plugins>
+  <scenes>
+    <scene id="id668329" />
+    <scene id="id269551" />
+    <scene id="id731297" />
+    <scene id="id524215" />
+  </scenes>
+</game>
